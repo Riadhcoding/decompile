@@ -1,4 +1,3 @@
-#!/bin/bash
 clear
 pkg install figlet
 clear
@@ -20,6 +19,3 @@ clear
 pip2 install mechanize
 clear
 pip2 install termocolor
-echo "selesai"
-clear
-python2 decom.pyc
